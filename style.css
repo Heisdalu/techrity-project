@@ -295,6 +295,11 @@ body {
     text-align: left;
     max-width: 500px;
     margin-right: auto;
+    padding: 3.5rem 0;
+  }
+
+  .section1-mockup {
+    padding: 0;
   }
 
   .section--2 {
@@ -357,6 +362,7 @@ body {
 
   .social-media {
     align-items: flex-start;
+    margin-left: auto;
   }
 
   .copyright {
