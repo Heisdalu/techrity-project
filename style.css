@@ -14,8 +14,13 @@
   --poppins: "Poppins", sans-serif;
 }
 
+button{
+  outline: none;
+}
+
 body {
   max-width: 1800px;
+  margin: 0 auto;
 }
 
 .navigation {
@@ -278,6 +283,7 @@ body {
 
   .section--1 {
     padding: 2rem 3rem;
+    background-image: url('./images/bg-hero-desktop.svg');
   }
 
   .button {
